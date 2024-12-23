@@ -1,7 +1,7 @@
 
 ![SxOpti+ Banner](https://github.com/user-attachments/assets/d94f3398-46bc-4372-94f3-013c54f46e96)
 
-# The absolute Pinnacle of Performance, Visuals & Interface.
+# Experience The UNPARALLELED.
 
 __Welcome to the official repository for SxOpti+, the ultimate Minecraft performance and visual enhancement modpack.__
 
