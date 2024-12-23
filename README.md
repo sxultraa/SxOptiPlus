@@ -31,3 +31,6 @@ We welcome contributions from the community! If you encounter any bugs, have sug
 This modpack is provided "as is" without any warranty. Use at your own risk.
 
 **Let's Elevate Minecraft Together!**
+
+**Under Maintenance**
+Thanks for your patience.
