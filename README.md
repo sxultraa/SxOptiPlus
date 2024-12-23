@@ -1,5 +1,7 @@
 
-![SxOpti+ Banner](https://github.com/user-attachments/assets/d94f3398-46bc-4372-94f3-013c54f46e96)
+![SxOpti+ Banner + (DNDEDD)](https://github.com/user-attachments/assets/445f4652-d9a8-4e86-a2e6-06ccb34a3e0f)
+
+
 
 # Experience The UNPARALLELED.
 
