@@ -5,7 +5,7 @@
 # SxOpti+
 
 [![Official Website][img-website]][url-website]
-[![Support and Contribute][img-contribute]][url-contribute]
+[![Support and Contribute][img-
 [![Read the Wiki][img-wiki]][url-wiki]
 
 [![Mod list][img-mods]][file-mods]
