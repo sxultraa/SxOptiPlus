@@ -1,8 +1,6 @@
 <div align="center">
 
-[![SXO-logo.png](https://i.postimg.cc/nhxj9TVt/SXO-logo.png)](https://postimg.cc/dLWtz2TW)
-
-# SxOpti+
+[![Sx-Opti-LOGO.png](https://i.postimg.cc/tJdkndxZ/Sx-Opti-LOGO.png)](https://postimg.cc/0KQDLwZP)
 
 [![Support and Contribute][img-contribute]][url-contribute]
 
@@ -10,46 +8,9 @@
 [![Resource Packs][img-rp]][url-rp]
 [![Read the Wiki][img-wiki]][url-wiki]
 
-Experience The UNPARALLELED.
+![experience the unparallaled](https://github.com/user-attachments/assets/51b75483-72a5-4467-a32e-fb85f2aa13c8)
 
 </div>
-
-## Download
-
-[![Installation Guide][img-install]][url-install]
-[![CurseForge][img-cf]][url-cf]
-[![Modrinth][img-modrinth]][url-modrinth]
-
-> By downloading Fabulously Optimized, you have acknowledged the [disclaimers][url-terms].
-
-We recommend and support five launchers, all of which can be used offline on 🪟 Windows, 🐧 Linux and 🍏 macOS.
-
-See this table for a comparison between the launchers:
-
-| Launcher                                      |               Tutorial               |    Install    |     Upgrade     |   Add mods    | Support us and mods |
-| --------------------------------------------- | :----------------------------------: | :-----------: | :-------------: | :-----------: | :-----------------: |
-| [CurseForge App][url-app-cf]                  |    [🔗&nbsp;Open][url-tutorial-cf]    |  ✅&nbsp;Easy  |   ✅&nbsp;Easy   |  ✅&nbsp;Easy  |     ✅&nbsp;Yes      |
-| [Modrinth App][url-app-modrinth]              | [🔗&nbsp;Open][url-tutorial-modrinth] |  ✅&nbsp;Easy  |   ✅&nbsp;Easy   |  ✅&nbsp;Easy  |     ✅&nbsp;Yes      |
-| [Prism Launcher][url-app-prism]               |  [🔗&nbsp;Open][url-tutorial-prism]   |  ✅&nbsp;Easy  |   ✅&nbsp;Easy   |  ✅&nbsp;Easy  |   ⏺<sup>[2]</sup>   |
-| [MultiMC][url-app-multimc]                    | [🔗&nbsp;Open][url-tutorial-multimc]  |  ✅&nbsp;Easy  |  ❌&nbsp;Manual  | ❌&nbsp;Manual |   ⏺<sup>[2]</sup>   |
-| [MultiMC (auto-update)][url-app-mmcu]           |   [🔗&nbsp;Open][url-tutorial-mmcu]   |  ✅&nbsp;Easy  | ⏺<sup>[1]</sup> | ❌&nbsp;Manual |   ⏺<sup>[2]</sup>   |
-| [Minecraft Launcher][url-app-vanilla] (installer) | [🔗&nbsp;Open][url-tutorial-vanilla] |  ✅&nbsp;Easy  | ✅&nbsp;Easy | ❌&nbsp;Manual |   ⏺<sup>[2]</sup>   |
-| [Minecraft Launcher][url-app-vanilla] (manual setup) | [🔗&nbsp;Open][url-tutorial-vanilla]  | ❌&nbsp;Manual |  ❌&nbsp;Manual  | ❌&nbsp;Manual |   ⏺<sup>[2]</sup>   |
-
-> [!NOTE]
->
-> *[1]*: Updates to the modpack within the same Minecraft version are automatic. The modpack cannot be updated automatically across Minecraft versions.
->
-> *[2]*: These launchers support the modpack and its mods by increasing their download count, but not with monetary benefits.
-
-<details><summary>Download Resource Packs separately</summary>
-
-FO includes some resource packs [for a better experience][url-rp], but they can also be downloaded separately.
-
-| Resource Pack             | CurseForge                  | Modrinth                        | Planet Minecraft                   |
-| ------------------------- | --------------------------- | ------------------------------- | ---------------------------------- |
-| *Chat Reporting Helper* | [CurseForge][url-rp-crh-cf] | [Modrinth][url-rp-crh-modrinth] | [Planet Minecraft][url-rp-crh-pmc] |
-| *Fast Better Grass*     | [CurseForge][url-rp-fbg-cf] | [Modrinth][url-rp-fbg-modrinth] | [Planet Minecraft][url-rp-fbg-pmc] |
 
 
 [file-mods]: <https://github.com/sxultraa/SxOptiPlus/wiki/List-of-Included-Mods>
